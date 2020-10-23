@@ -1,0 +1,10 @@
+.submit {
+  margin-left: 10px;
+
+  background-color: lightblue;
+}
+
+.rendered {
+  justify-content: center;
+  margin: auto;
+}
